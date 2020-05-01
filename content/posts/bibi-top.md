@@ -2,7 +2,7 @@
 canonical_url = ""
 content_img_path = ""
 date = 2020-04-27T09:00:00Z
-excerpt = "Нове відео про блок страйк"
+excerpt = "Нове відео про бібі топ"
 layout = "post"
 subtitle = ""
 thumb_img_path = "/images/Bibi_Skin-Default.png"
