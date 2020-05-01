@@ -1,29 +1,25 @@
 ---
-title: Home
+title: Головна
 sections:
   - type: heroblock
     template: heroblock
     section_id: hero
     component: hero_block.html
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      У цьому блозі я буду викладати свої відео на YouTube.
   - type: contentblock
     template: contentblock
-    title: About
+    title: Про мене
     section_id: about
     actions:
-      - label: Contact Me
+      - label: Зв’язатися зі мною
         url: /contact
     component: content_block.html
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      Я Богдан. Люблю свого хом’ячка та викладати відео на YouTube.
   - type: postsblock
     template: postsblock
-    title: Recent Posts
+    title: Останні пости
     section_id: recent-posts
     actions:
       - label: Переглянути блог
