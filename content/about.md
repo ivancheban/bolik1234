@@ -1,11 +1,10 @@
 ---
 title: Про мене
-subtitle: This is a short page about me and my work.
+subtitle: Я Богдан. Люблю свого хом’ячка та знімати відео про ігри в Brawl Stars.
 img_path: "/images/sleepy-sandy.jpg"
 layout: page
 menu:
   main:
-    name: Про мене
     weight: 4
 
 ---
