@@ -1,10 +1,11 @@
 ---
-title: Contact
+title: Контакти
+layout: contact
+subtitle: ''
+img_path: ''
 menu:
   main:
-    name: Contact
     weight: 5
-layout: contact
----
 
-To get in touch fill the form below.
+---
+Щоб зв’язатися зі мною, напишіть у цій формі.
