@@ -5,8 +5,8 @@ params:
   layout_style: overflow
   palette: green
   header:
-    title: Stackbit Fresh
-    tagline: Header Tagline
+    title: Bolik1234
+    tagline: Блог Богдана
     profile_img: "/images/sleepy-sandy.jpg"
     bg: dark
     has_nav: true
