@@ -28,7 +28,7 @@ sections:
     num_posts_displayed: 4
 menu:
   main:
-    name: Home
+    name: Головна
     weight: 1
 layout: home
 ---

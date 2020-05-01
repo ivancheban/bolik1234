@@ -5,7 +5,7 @@ img_path: "/images/sleepy-sandy.jpg"
 layout: page
 menu:
   main:
-    name: About
+    name: Про мене
     weight: 4
 
 ---
