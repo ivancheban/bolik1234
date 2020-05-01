@@ -1,6 +1,6 @@
 ---
 title: Вибили 24 персонажів із 407 боксів і 47 великих на nul's brawl
-date: 2018-01-09
+date: 2020-04-30T09:00:00+00:00
 thumb_img_path: "/images/nul-brawl.png"
 content_img_path: ''
 excerpt: Hiking can sometimes involves bushwhacking and hiking is sometimes referred
