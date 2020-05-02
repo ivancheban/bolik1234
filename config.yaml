@@ -1,6 +1,7 @@
 ---
 title: Блог Богдана
 baseURL: "/"
+googleAnalytics: "UA-162550995-10"
 params:
   layout_style: overflow
   palette: green
