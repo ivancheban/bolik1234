@@ -1,11 +1,9 @@
 ---
 title: Вибили 24 персонажів із 407 боксів і 47 великих на nul's brawl
-date: 2020-04-30T09:00:00+00:00
+date: 2020-04-30T09:00:00.000+00:00
 thumb_img_path: "/images/nul-brawl.png"
 content_img_path: ''
-excerpt: Hiking can sometimes involves bushwhacking and hiking is sometimes referred
-  to as such. This specifically refers to difficult walking through dense forest,
-  undergrowth, or bushes, where forward progress requires pushing vegetation aside.
+excerpt: ''
 layout: post
 subtitle: ''
 canonical_url: ''
